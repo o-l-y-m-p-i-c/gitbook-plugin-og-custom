@@ -1,4 +1,4 @@
-# gitbook-plugin-open-graph
+# gitbook-plugin-og-custom
 
 Adds open graph and twitter sharing meta information to `<head>`
 

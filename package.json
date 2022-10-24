@@ -4,10 +4,15 @@
     "description": "customed package - gitbook-plugin-open-graph",
     "engines": {
         "gitbook": ">1.x.x"
-    },
+    }, 
+    "keywords": [
+    "gitbook-plugin-og-custom"
+    ],
+    "author": "nike-smile",
+    "license": "ISC",
     "gitbook": {
         "properties": {
-            "open-graph": {
+            "og-custom": {
                 "baseURL": "https://example.com",
                 "defaultDescription": "This is my default share description",
                 "defaultImage": "images/default-share.jpg"
