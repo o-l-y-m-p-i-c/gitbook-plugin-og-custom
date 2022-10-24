@@ -1,0 +1,17 @@
+{
+    "name": "gitbook-plugin-og-custom",
+    "version": "0.0.1",
+    "description": "customed package - gitbook-plugin-open-graph",
+    "engines": {
+        "gitbook": ">1.x.x"
+    },
+    "gitbook": {
+        "properties": {
+            "open-graph": {
+                "baseURL": "https://example.com",
+                "defaultDescription": "This is my default share description",
+                "defaultImage": "images/default-share.jpg"
+            }
+        }
+    }
+}
